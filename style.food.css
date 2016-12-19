@@ -1,0 +1,257 @@
+
+body{
+		background-color:#4A453B;
+}
+
+		
+#container{	
+		width:1360px; 
+		height:240px; 
+		position: relative;		
+}
+
+#title_image{
+		width:1265px;
+		border-radius:50px;
+		position: absolute;		
+		opacity: 0.9;
+		border:dashed mintcream 7px;
+		outline: dashed snow;
+		outline-offset: 5px; 
+		margin-left: 1cm;
+}
+
+#title{
+		z-index:100;
+		position:absolute;
+		font-size: 84px;
+		color: #FFF0F5;
+		text-align: center;
+		padding-top: 10px;		
+		padding-left: 250px;
+		font-family: "Indie Flower";
+		}
+#homepage{
+		font-family: "Indie Flower";
+		color: #FFF0F5;
+		font-size: 50px;
+		z-index:100;
+		width:150px;
+		height:70px;
+		border-radius:50px;
+		position: absolute;		
+		opacity: 0.9;
+		border:solid mintcream 7px; 
+		margin-left: 1cm;
+		text-align: center;
+		top:162px;
+		left:10px;
+}
+#homepage:hover{
+		color: PaleVioletRed;
+		}
+#fixed_image{
+		border-radius: 60px;
+		position: absolute;
+		margin-left: 1cm;		
+		margin-top: 1cm;		
+		opacity: 0.8;
+		z-index:-1;
+		}
+
+#food_background{
+		width:1270px; 
+		height:500px; 
+		background-color:mistyrose;
+		border:dashed PaleVioletRed 4px;
+		outline: dashed snow;
+		outline-offset: 3px; 
+		border-radius: 50px;
+		opacity: 0.7;
+		position: absolute;
+		margin-top: 1cm;		
+		margin-left: 1cm;
+		}
+#fixed_image_reversed{
+		border-radius: 60px;
+		position: absolute;
+		margin-left: 1cm;		
+		margin-top: 29.7cm;		
+		opacity: 0.7;
+		z-index:-1;
+		}
+#between_backgrounds{
+		width:1270px; 
+		height:210px; 
+		background-color:mintcream;
+		border:dashed PaleVioletRed 4px;
+		outline: dashed snow;
+		outline-offset: 3px; 
+		border-radius: 0px;
+		opacity: 0.8;
+		position: absolute;
+		margin-top: 26cm;		
+		margin-left: 1cm;
+}
+#food_footer{
+		width:1270px; 
+		height:400px; 
+		background-color:seashell;
+		border:dashed PaleVioletRed 4px;
+		outline: dashed snow;
+		outline-offset: 3px; 
+		border-radius: 50px;
+		opacity: 0.7;
+		position: absolute;
+		margin-top: 32.4cm;		
+		margin-left: 1cm;
+		}
+#food_1{
+width:420px; 
+height:460px; 
+border-radius:150px;
+border:solid white 5px;
+position:absolute;
+top:0.5cm;
+left:0.5cm;
+}
+
+#food_2{
+width:390px; 
+height:290px;; 
+border-radius:100%;
+border:solid white 5px;
+position:absolute;
+left:10.5cm;
+}
+
+#food_3{
+width:250px; 
+height:250px; 
+border-radius:100%;
+border:solid white 5px;
+position:absolute;
+top:6.3cm;
+left:10.7cm;
+}
+
+#food_4{
+width:90px; 
+height:90px; 
+border-radius:100%;
+border:solid white 2px;
+position:absolute;
+top:10.3cm;
+left:16.7cm;
+-webkit-animation-name: example; 
+-webkit-animation-duration: 6s; 
+-webkit-animation-iteration-count: infinite; 
+}
+@-webkit-keyframes example {
+    0%   {left:780px; top:410px;}
+    25%  {left:780px; top:50px;}
+    50%  {left:1180px; top:50px;}
+    75%  {left:1180px; top:410px;}
+    100% {left:780px; top:410px;}
+}
+
+#layout_1{
+width:300px; 
+height:200px; 
+border:dashed pink 5px;
+position:absolute;
+left:2.1cm;
+}
+
+#layout_2{
+width:300px; 
+height:200px; 
+border:dashed pink 5px;
+position:absolute;
+left:23.3cm;
+}
+
+#layout_3{
+width:300px; 
+height:200px; 
+border:dashed lightpink 5px;
+position:absolute;
+left:12.7cm;
+}
+
+#food_is_here{
+font-size: 42px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+left: 880px;
+top: -25px;
+}
+
+#food_paragraph{
+font-size: 19px;
+color: black;
+font-family: "Indie Flower";
+position: absolute;
+padding-right:92px;
+padding-bottom:90px;
+left: 880px;
+top: 125px;
+}
+
+#first_word{
+font-size: 36px;
+}
+
+#mugs_title{
+font-size: 50px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+left: 490px;
+top: -20px;
+}
+
+#mug_3{
+width:390px; 
+height:290px;; 
+position:absolute;
+border-radius:50px;
+left:3cm;
+top:40cm;
+}
+#mug_4{
+width:390px; 
+height:290px;; 
+position:absolute;
+border-radius:50px;
+left:22.8cm;
+top:40cm;
+}
+#mug_3_price{
+font-size: 40px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+left: 2.7cm;
+top: 300px;
+}
+#mug_4_price{
+font-size: 40px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+left: 22.5cm;
+top: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+

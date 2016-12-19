@@ -1,0 +1,154 @@
+
+body{
+		background-color:#4A453B;
+}
+
+		
+#container{	
+		width:1360px; 
+		height:240px; 
+		position: relative;		
+}
+
+#title_image{
+		width:1265px;
+		border-radius:50px;
+		position: absolute;		
+		opacity: 0.9;
+		border:dashed mintcream 7px;
+		outline: dashed snow;
+		outline-offset: 5px; 
+		margin-left: 1cm;
+}
+
+#title{
+		z-index:100;
+		position:absolute;
+		font-size: 84px;
+		color: #FFF0F5;
+		text-align: center;
+		padding-top: 10px;		
+		padding-left: 250px;
+		font-family: "Indie Flower";
+		}
+
+#fixed_image{
+		border-radius: 60px;
+		position: absolute;
+		margin-left: 1cm;		
+		margin-top: 1cm;		
+		opacity: 0.8;
+		z-index:-1;
+		}
+#words{
+		width:600px; 
+		height:500px; 
+		background-color:seashell;
+		border:dashed PaleVioletRed 5px;
+		outline: dashed snow;
+		outline-offset: 5px; 
+		border-radius: 50px;
+		opacity: 0.8;
+		position: absolute;
+		margin-top: 1cm;		
+		margin-left: 1cm;
+		}
+#video{
+		width:600px; 
+		height:500px; 
+		background-color:seashell;
+		border:dashed PaleVioletRed 5px;
+		outline: dashed snow;
+		outline-offset: 5px; 
+		border-radius: 50px;
+		opacity: 0.9;
+		position: absolute;
+		margin-top: 1cm;		
+		margin-left: 18.7cm;
+		}
+
+#types{
+		font-size: 26px;
+		color: #4A453B;
+		font-family: "Indie Flower";
+		position: absolute;
+		margin-left:30px;
+		margin-right:30px;
+		top:-0.8cm;
+}
+
+#student_work_text{
+		font-size: 36px;
+		color: #4A453B;
+		font-family: "Indie Flower";
+		position: absolute;
+		top:10.5cm;
+		left:2cm;
+}
+
+#coffee_1{
+width:240px; 
+height:330px; 
+border-radius:100%;
+border:solid snow 5px;
+position:absolute;
+left:28cm;
+top:9cm;
+
+}
+#coffee_2{
+position:absolute;
+left:22cm;
+top:8.2cm;
+width:170px; 
+height:170px; 
+border-radius:100%;
+border:solid snow 5px;
+}
+
+span{
+font-size: 50px;
+}
+
+#student_work
+{
+position:absolute;
+left:-1.7cm;
+top:-6.6cm;
+}
+
+#homepage{
+		font-family: "Indie Flower";
+		color: #FFF0F5;
+		font-size: 50px;
+		z-index:100;
+		width:150px;
+		height:70px;
+		border-radius:50px;
+		position: absolute;		
+		opacity: 0.9;
+		border:solid mintcream 7px; 
+		margin-left: 1cm;
+		text-align: center;
+		top:162px;
+		left:10px;
+}
+
+#homepage:hover{
+		color: PaleVioletRed;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

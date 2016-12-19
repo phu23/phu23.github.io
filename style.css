@@ -1,0 +1,264 @@
+
+body{
+		background-color:#4A453B;
+}
+
+		
+#container{	
+		width:1360px; 
+		height:240px; 
+		position: relative;		
+}
+
+#title_image{
+		border-radius:50px;
+		position: absolute;		
+		opacity: 0.9;
+		border:dashed mintcream 7px;
+		outline: dashed snow;
+		outline-offset: 5px; 
+		margin-left: 1cm;
+}
+
+#title{
+		z-index:100;
+		position:absolute;
+		font-size: 84px;
+		color: #FFF0F5;
+		text-align: center;
+		padding-top: 10px;		
+		padding-left: 250px;
+		font-family: "Indie Flower";
+		}
+
+#left_top{ 
+		width:380px; 
+		height:380px; 
+		background-color:mistyrose;
+		border:solid mintcream 1px; 
+		outline: dashed mintcream 3px;
+		outline-offset: 2px; 
+		border-radius: 50px;
+		opacity: 0.7;
+		position: fixed;
+		margin-top: 1cm;
+		margin-left: 1cm;
+		}
+		
+#middle{ 
+		width:600px; 
+		height:500px; 
+		background-color:mintcream;
+		border:solid lightpink 5px;
+		outline: dashed snow 4px;
+		outline-offset: 4px; 
+		border-radius: 50px;
+		opacity: 0.9;
+		position: relative;
+		margin-top: 1cm;		
+		margin-left: 11.8cm;
+		}
+#middle_left{
+		width:200px; 
+		height:500px; 
+		background-color:mistyrose;
+		border:dashed pink 4px;
+		border-radius: 50px;
+		opacity: 0.7;
+		position: relative;
+		margin-top: -13.5cm;		
+		margin-left: 11.8cm;
+		}
+#right{
+		width:225px; 
+		height:500px; 
+		background-color:seashell;
+		border:solid pink 5px;
+		border-radius: 50px;
+		outline: dashed mintcream 4px;
+		outline-offset: 4px; 
+		opacity: 0.9;
+		position: relative;
+		margin-top: -13.4cm;		
+		margin-left: 28.5cm;
+		}
+		
+#video_title{
+		font-size: 21px;
+		color: #4A453B;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 30px;
+		top: -20px;
+		}
+#video_title_two{
+		font-size: 21px;
+		color: #4A453B;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 12px;
+		top: 10px;
+		}
+		
+#fixed_image{
+		border-radius: 60px;
+		position: absolute;
+		margin-left: 1cm;		
+		margin-top: -13.5cm;		
+		opacity: 0.8;
+		z-index:-1;
+		}
+#menu{
+		font-size: 36px;
+		color: #4A453B;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 160px;
+		top: -50px;		
+	}
+#coffee_menu{
+		font-size: 17px;
+		color: black;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 24px;
+		top: -10px;
+		border: dashed grey 3px;
+		border-radius:10px;
+	}
+#click_on_me_for_more_infomation:link{
+		font-size: 15px;
+		color: black;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 300px;
+		top: 413px;
+	}
+#click_on_me_for_more_infomation:visited{
+		color: green;
+	}
+#click_on_me_for_more_infomation:hover{
+		color: blue;
+	}
+#click_on_me_for_more_infomation:active{
+		color: yellow;
+	}
+#introducion{
+		font-family: "Indie Flower";
+		color: maroon;
+		font-size:40px;
+		left:5.7cm;
+		position: absolute;
+		top:-0.6cm;
+	}
+#profile{
+		border: 5px,solid,black;
+		border:solid maroon 5px;
+		border-radius: 100%;
+		width: 190px;
+		position:absolute;
+		top:20px;
+	}
+#profile_two{
+		border: 5px,solid,black;
+		border:solid maroon 5px;
+		border-radius: 100%;
+		width: 190px;
+		position:absolute;
+		top:250px;
+		}
+#profile_three{
+		border: 5px,solid,black;
+		border:solid maroon 5px;
+		border-radius: 100%;
+		width: 190px;
+		position:absolute;
+		top:350px;
+		}
+
+#intro_paragraph{
+font-size: 17px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+padding-right:30px;
+padding-bottom:10px;
+left: 230px;
+top: 65px;
+}
+
+#first_word{
+font-size: 40px;
+}
+
+
+#click_on_me_for_more_infomation_2:link{
+		font-size: 15px;
+		color: black;
+		margin-top: 1cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		left: 9px;
+		top: 413px;
+	}
+#click_on_me_for_more_infomation_2:visited{
+		color: green;
+	}
+#click_on_me_for_more_infomation_2:hover{
+		color: blue;
+	}
+#click_on_me_for_more_infomation_2:active{
+		color: yellow;
+	}
+#video_clip{
+	position:absolute;
+	top:7.5cm;
+	}
+#video_talk{
+		font-size: 20px;
+		color: #4A453B;
+		margin-top: 2cm;		
+		font-family: "Indie Flower";
+		position: absolute;
+		top:10px;
+		left: 10px;
+}
+
+#ps{
+
+font-size: 17px;
+color: #4A453B;
+font-family: "Indie Flower";
+position: absolute;
+top: 320px;
+}
+
+#for{
+font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
